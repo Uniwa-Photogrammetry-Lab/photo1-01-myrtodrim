@@ -2,6 +2,7 @@
 ## Μυρτω Δριμαλα
 ## 23391025
 ## 3ο εξαμηνο
+[ασκηση1.pdf](https://github.com/user-attachments/files/19373705/1.pdf)
 
 
 # :wave: The Basics of GitHub 
